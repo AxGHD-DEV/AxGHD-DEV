@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @AxGHD-DEV
+- 👀 I am interested in computer development on several different languages. Lua, C ++, C #, PhP, HTML, Javascript, .NET
